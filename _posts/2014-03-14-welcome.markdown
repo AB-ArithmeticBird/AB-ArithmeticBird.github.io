@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to Arithmeticbird's world!"
+date:   2014-03-14 04:23:24
+categories: welcome
+---
+
+Welcome to my blog. I hope you will find something interesting here.
